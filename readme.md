@@ -9,7 +9,7 @@ Custom Behaviors for MvcContrib.FluentHtml that generate HTML5 validation attrib
 
 ## Getting Started
 
-See Brandon Satrom's blog post on using FluentHtml with HTML5 input types and attributes for more information on getting started.
+See Brandon Satrom's [blog post on using FluentHtml with HTML5 input types and attributes](http://userinexperience.com/?p=692) for more information on getting started.
 
 # MIT License
 
